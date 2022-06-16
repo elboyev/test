@@ -1,5 +1,8 @@
-﻿Quyida nomlari keltirilgan olimlardan qaysilari sifat sohasi bo'yicha izlanish olib borishgan.
+﻿
+
+Quyida nomlari keltirilgan olimlardan qaysilari sifat sohasi bo'yicha izlanish olib borishgan.
 ====
+388171100333
 #Uolter Shuxart, Aristotel,Edvard Deming,Singo Siego 
 ====
 Albert Eynshteyn, N.Bor, Edvard Deming,Singo Siego
